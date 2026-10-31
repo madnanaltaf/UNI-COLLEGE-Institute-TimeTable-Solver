@@ -1,0 +1,49 @@
+Day,DutyType,Location,AssignedTeacher,TeacherCode,PrimarySpecialization
+Friday,"Main Gate & Perimeter Duty","Main Entrance Gate","Rizwan Ahmed",RIZ,"English Language & Comp"
+Friday,"Main Gate & Perimeter Duty","Main Entrance Gate","Junaid Tariq",JUN,"English Language & Comp"
+Friday,"Morning Assembly Supervision","Central Assembly Ground","Barkaat Ali",BAR,"English Language & Comp"
+Friday,"Morning Assembly Supervision","Central Assembly Ground","Afzal Khan",AFZ,"English Language & Comp"
+Friday,"Morning Assembly Supervision","Central Assembly Ground","Yasir Mehmood",YAS,"English Language & Comp"
+Friday,"Recess Corridor Monitoring","Corridors & Cafeteria","Kamran Shah",KAM,"Urdu Literature"
+Friday,"Recess Corridor Monitoring","Corridors & Cafeteria","Faisal Iqbal",FI,"Urdu Literature"
+Friday,"Recess Corridor Monitoring","Corridors & Cafeteria","Shahzad Aslam",SHZ,"Urdu Literature"
+Monday,"Main Gate & Perimeter Duty","Main Entrance Gate","Ismail Farooq",ISM,"Urdu Literature"
+Monday,"Main Gate & Perimeter Duty","Main Entrance Gate","Fayaz Hussain",FAY,"Urdu Literature"
+Monday,"Morning Assembly Supervision","Central Assembly Ground","Faizan Haider",FAZ,Mathematics
+Monday,"Morning Assembly Supervision","Central Assembly Ground","Abdul Rauf",ARF,Mathematics
+Monday,"Morning Assembly Supervision","Central Assembly Ground","Mohsin Raza",MOH,Mathematics
+Monday,"Recess Corridor Monitoring","Corridors & Cafeteria","Zawar Shah",ZAW,Mathematics
+Monday,"Recess Corridor Monitoring","Corridors & Cafeteria","Ajmal Latif",AJM,Mathematics
+Monday,"Recess Corridor Monitoring","Corridors & Cafeteria","Danish Munir",DAN.M,Mathematics
+Saturday,"Main Gate & Perimeter Duty","Main Entrance Gate","Sajid Mehmood",SAJ,Physics
+Saturday,"Main Gate & Perimeter Duty","Main Entrance Gate","Syed Zaman",SZ,Physics
+Saturday,"Morning Assembly Supervision","Central Assembly Ground","Irshad Ullah",IRSH,Physics
+Saturday,"Morning Assembly Supervision","Central Assembly Ground","Danish Siddiqui",DS,Physics
+Saturday,"Morning Assembly Supervision","Central Assembly Ground","Zulqurnain Haider",ZUL,Physics
+Saturday,"Recess Corridor Monitoring","Corridors & Cafeteria","Bilal Hassan",BH,Chemistry
+Saturday,"Recess Corridor Monitoring","Corridors & Cafeteria","Abdul Rehman Chem",ARC,Chemistry
+Saturday,"Recess Corridor Monitoring","Corridors & Cafeteria","Ishaq Dar",ISH,Chemistry
+Thursday,"Main Gate & Perimeter Duty","Main Entrance Gate","Usama Qasim",USA,Chemistry
+Thursday,"Main Gate & Perimeter Duty","Main Entrance Gate","Mudasar Nawaz",MUD,Chemistry
+Thursday,"Morning Assembly Supervision","Central Assembly Ground","Noman Bashir Bio",NOM.B,Biology
+Thursday,"Morning Assembly Supervision","Central Assembly Ground","Nazneen Akhtar",NAZ,Biology
+Thursday,"Morning Assembly Supervision","Central Assembly Ground","Bilal Chaudhry",BC,Biology
+Thursday,"Recess Corridor Monitoring","Corridors & Cafeteria","Umar Farooq Bio",UMR,Biology
+Thursday,"Recess Corridor Monitoring","Corridors & Cafeteria","Adnan Tariq",ADN,"Information Technology"
+Thursday,"Recess Corridor Monitoring","Corridors & Cafeteria","Shoaib Rashid",SR,"Information Technology"
+Tuesday,"Main Gate & Perimeter Duty","Main Entrance Gate","Noman IT Specialist",NOM.IT,"Information Technology"
+Tuesday,"Main Gate & Perimeter Duty","Main Entrance Gate","Zaheer Abbas",ZAH,"Social Studies / Pak Studies"
+Tuesday,"Morning Assembly Supervision","Central Assembly Ground","Akram Gill",AKR,"Social Studies / Pak Studies"
+Tuesday,"Morning Assembly Supervision","Central Assembly Ground","Abdul Rehman SST",ARS,"Social Studies / Pak Studies"
+Tuesday,"Morning Assembly Supervision","Central Assembly Ground","Fazal Gulzar",FG,"Islamic Studies & Quran"
+Tuesday,"Recess Corridor Monitoring","Corridors & Cafeteria","Imran Hussain",IH,"Islamic Studies & Quran"
+Tuesday,"Recess Corridor Monitoring","Corridors & Cafeteria","Zakirullah Khan",ZAK,"Islamic Studies & Quran"
+Tuesday,"Recess Corridor Monitoring","Corridors & Cafeteria","Abu Bakar",AB,"Islamic Studies & Quran"
+Wednesday,"Main Gate & Perimeter Duty","Main Entrance Gate","Naveed Akhtar",NAV,"Fine Arts & Drawing"
+Wednesday,"Main Gate & Perimeter Duty","Main Entrance Gate","Saleem Yousaf",SAL,"Central Library & Reading"
+Wednesday,"Morning Assembly Supervision","Central Assembly Ground","Aamir Ali",AA,"Fine Arts & Drawing"
+Wednesday,"Morning Assembly Supervision","Central Assembly Ground","Rizwan Ahmed",RIZ,"English Language & Comp"
+Wednesday,"Morning Assembly Supervision","Central Assembly Ground","Junaid Tariq",JUN,"English Language & Comp"
+Wednesday,"Recess Corridor Monitoring","Corridors & Cafeteria","Barkaat Ali",BAR,"English Language & Comp"
+Wednesday,"Recess Corridor Monitoring","Corridors & Cafeteria","Afzal Khan",AFZ,"English Language & Comp"
+Wednesday,"Recess Corridor Monitoring","Corridors & Cafeteria","Yasir Mehmood",YAS,"English Language & Comp"
